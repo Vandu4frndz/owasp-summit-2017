@@ -6,7 +6,7 @@ track       : DevSecOps
 status      : to be reviewed content
 when-day    :
 organizers  : Erez Yalon
-participants: Dinis Cruz
+participants: Dinis Cruz, Vandana Kumari (remotely)
 ---
 
 
