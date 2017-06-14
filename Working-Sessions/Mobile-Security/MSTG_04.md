@@ -12,7 +12,7 @@ location        : Villa-2
 room-layout     : unknown
 description     : In this book sprint we produce content for the "iOS Testing Guide" chapter of the Mobile Security Testing Guide.
 organizers      : Bernhard Mueller, Sven Schleier
-participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen
+participants    : Carlos Holguera, Sven Schleier, Jeroen Willemsen, Vandana Kumari
 invited         : Denis Pilipchuk, Naushad, Bolot Kerimbaev, Marc Rimbau, Alexander Antukh, Johanna Curiel
 ---
 
