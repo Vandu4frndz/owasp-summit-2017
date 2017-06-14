@@ -11,7 +11,7 @@ when-time     : PM-2
 location      : Room-1
 room-layout   : 
 organizers    : Timo Pagel
-participants  : Johan Peeters,Francois Raynaud
+participants  : Johan Peeters,Francois Raynaud, Vandana Kumari (remotely)
 
 ---
 
